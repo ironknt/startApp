@@ -22,14 +22,17 @@ npm run lint
 
 ### 组件库
 https://vant-contrib.gitee.io/vant/#/zh-CN/
-参见pages/Login.vue
+
+参照pages/Login.vue
 
 ### vueRouter
 https://router.vuejs.org/zh/
+
 参照本项目router目录
 
 ### vuex
 https://vuex.vuejs.org/zh/
+
 参照本项目store目录
 
 ### sass
