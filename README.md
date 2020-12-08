@@ -37,8 +37,10 @@ https://vuex.vuejs.org/zh/
 
 ### sass
 https://sass.bootcss.com/guide
+
 https://juejin.cn/post/6844903853335248910
-参见pages/Login.vue
+
+参照pages/Login.vue
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
